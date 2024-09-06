@@ -1,0 +1,41 @@
+_repo: Vuoren-erakko_74289
+_version: 0.0.1
+alternative_title: Der Wetterwart. Finnish
+contributor:
+  translator:
+    agent_name: Walldén, Hilja
+    alias: Wallden, Hilja
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '42640'
+    url: http://www.gutenberg.org/2009/agents/42640
+    wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+creator:
+  author:
+    agent_name: Heer, J. C. (Jakob Christoph)
+    alias: Heer, Jakob Christoph
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '9514'
+    url: http://www.gutenberg.org/2009/agents/9514
+    wikipedia: https://de.wikipedia.org/wiki/Jakob_Christoph_Heer
+description: ''
+gutenberg_issued: '2024-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74289'
+language: fi
+pgterms:marc905: 20220424075550heer
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Vuoren erakko
+url: http://www.gutenberg.org/ebooks/74289
