@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '42640'
     url: http://www.gutenberg.org/2009/agents/42640
     wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heer, J. C. (Jakob Christoph)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9514
     wikipedia: https://de.wikipedia.org/wiki/Jakob_Christoph_Heer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74289#Vuoren-erakko
 gutenberg_issued: '2024-08-21'
 gutenberg_type: Text
 identifiers:
